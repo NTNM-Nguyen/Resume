@@ -37,6 +37,7 @@ Developed a Power BI dashboard to track a 19-week device migration project for a
 ---
 ## Personal Projects
 **SQL Queries**
+
 [Github repo: README.md](https://github.com/NTNM-Nguyen/SQL-Queries)
 
 A collection of SQL practice queries designed to help refresh and strengthen core querying skills. The goal of this repository is to serve as a quick reference and practice space for revisiting essential SQL concepts and improving query-writing efficiency.
