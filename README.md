@@ -3,7 +3,7 @@
 
 I'm a data professional with 5+ years of experience in leading Digital and Financial services companies. Proficient in Power BI, SQL, and Power Automate with proven expertise in delivering business insights and functional visualizations that drives decision making efficiency. 
 ## Work Experience
-**Reporting & Data Analyst @ RICOH Business Services (2021 – 2025_)**
+**Reporting & Data Analyst @ RICOH Business Services (2021 – 2025)**
 - Designed and developed 20+ Power BI dashboards for global clients, enabled executives to monitor ongoing KPIs and *reduced reporting turnaround by 30%*.
 - Performed data analysis and reviewed data profile through queries in SQL and Excel to consolidated datasets, enhanced stored procedures, and identified data inconsistencies.
 - *Streamlined 60% manual data processing time* by building 5+ Power Automate solutions, which helped to increased capacity for strategic initiatives.
