@@ -51,5 +51,6 @@ A collection of SQL practice queries designed to help refresh and strengthen cor
 
 ---
 ## Find me at: 
-Linkedin: www.linkedin.com/in/minh-n-nguyen | Email: mim.n.nguyen@gmail.com
+Linkedin: www.linkedin.com/in/minh-n-nguyen | 
+Email: mim.n.nguyen@gmail.com
 
