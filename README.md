@@ -36,14 +36,20 @@ Developed a Power BI dashboard to track a 19-week device migration project for a
 
 ---
 ## Personal Projects
+**PySpark IoT Malware Data Processing in Databricks**
+
+[Github repo: README.md](https://github.com/NTNM-Nguyen/Malware_Detection_EDA_PySpark_Databricks)
+
+This project showcases hands-on PySpark data engineering and exploratory data analysis (EDA) performed in Databricks. The project emphasizes scalable data processing, Spark SQL functions, window operations, join optimization, and Parquet storage. The outcome is a clean, scalable, and reusable dataset ready for modeling.
+![pyspark](https://github.com/user-attachments/assets/9108d4e8-dd60-4699-9bd2-3d076ee2b161)
+
 **SQL Queries**
 
 [Github repo: README.md](https://github.com/NTNM-Nguyen/SQL-Queries)
 
 A collection of SQL practice queries designed to help refresh and strengthen core querying skills. The goal of this repository is to serve as a quick reference and practice space for revisiting essential SQL concepts and improving query-writing efficiency.
 
-
+---
 ## Find me at: 
-Linkedin: www.linkedin.com/in/minh-n-nguyen 
-Email: mim.n.nguyen@gmail.com
+Linkedin: www.linkedin.com/in/minh-n-nguyen | Email: mim.n.nguyen@gmail.com
 
