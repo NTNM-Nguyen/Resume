@@ -36,6 +36,12 @@ Developed a Power BI dashboard to track a 19-week device migration project for a
 
 ---
 ## Personal Projects
+**2019 Electronic Devices Sales Analysis using Pandas**
+
+[Github repo: README.md](https://github.com/NTNM-Nguyen/Sales-Analysis-Pandas)
+
+Conducted sales and customer behavior analysis on US online transaction data to uncover revenue drivers and buying patterns. Cleaned and analyzed order-level data, focusing on seasonal trends, geographic performance, purchase timing, and product bundling behavior. Identified peak sales periods, top-performing cities, and high-impact product combinations, and translated insights into actionable recommendations for Sales and Marketing teams to optimize ad timing, bundling strategies, and regional targeting.
+
 **PySpark IoT Malware Data Processing in Databricks**
 
 [Github repo: README.md](https://github.com/NTNM-Nguyen/Malware_Detection_EDA_PySpark_Databricks)
